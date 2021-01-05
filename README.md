@@ -6,4 +6,11 @@ Para saber mais acesse:
 
 https://cursos.alura.com.br/formacao-Python-linguagem
 
+Até agora finalizados os seguintes cursos:
+
+Python 3 parte 1: Introdução à nova versão da linguagem - Carga Horária 12 hr.[Certificado](https://drive.google.com/file/d/1Vg6mCV2imRD3OwWUTk5JoAHVgqEx0PUG/view?usp=sharing)
+
+Python 3 parte 2: Avançando na linguagem - Carga horária 12 Hr.[Certificado](https://drive.google.com/file/d/14523DWWqVe6Fv_-UG4YMfHQ7z8AYId8x/view?usp=sharing) 
+
+
 Até +
