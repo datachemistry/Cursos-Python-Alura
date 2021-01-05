@@ -12,5 +12,8 @@ Python 3 parte 1: Introdução à nova versão da linguagem - Carga Horária 12 
 
 Python 3 parte 2: Avançando na linguagem - Carga horária 12 Hr.[Certificado](https://drive.google.com/file/d/14523DWWqVe6Fv_-UG4YMfHQ7z8AYId8x/view?usp=sharing) 
 
+Python 3: Introdução a Orientação a objetos - Carga horária 12 Hr.[Certificado](https://drive.google.com/file/d/1SG9r-R33v7R8aREOFv2wihQRmUVYDo0i/view?usp=sharing) 
+
+Python 3: Introdução a Orientação a objetos
 
 Até +
