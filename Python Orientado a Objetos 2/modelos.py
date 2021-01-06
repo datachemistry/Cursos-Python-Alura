@@ -22,7 +22,6 @@ class Programa:
     def __str__(self):
         return f'Nome: {self.nome} Likes: {self.likes}'
     
-
 class Filme(Programa):
     def __init__(self, nome, ano, duracao):
         super().__init__(nome, ano)
@@ -31,7 +30,6 @@ class Filme(Programa):
     def __str__(self):
         return f'Nome: {self.nome} - {self.duracao} min - Likes: {self.likes}'
         
-    
 class Serie(Programa):
     def __init__(self, nome, ano, temporadas):
         super().__init__(nome, ano)           
@@ -39,11 +37,30 @@ class Serie(Programa):
     
     def __str__(self):
         return f'Nome: {self.nome} - {self.temporadas} temporadas - Likes: {self.likes}'
-       
+      
+class Playlist():
+    def __init__(self, nome, programas):
+        self.nome = nome
+        self._programas = programas
+        
+    def __getitem__(self, item):
+        return self._programas[item]
+    
+    @property    
+    def listagem(self):
+        return self._programas
+    
+    @property
+    def tamanho(self):
+        return len(self._programas)
+        
 
 vingadores = Filme('vingadores - guerra infinita', 2018, 160)
-atlanta = Serie('atlanta', 2018, 2)
 lor = Filme('o senhor dos aneis', 2001, 200)
+harry_potter_1 = Filme('Harry Potter e a Pedra Filosofal', 2000, 180)
+atlanta = Serie('atlanta', 2018, 2)
+got = Serie('Game of Thrones', 2017, 7)
+breaking_bad = Serie('breaking bad', 2015, 8)
 
 atlanta.dar_likes()
 atlanta.dar_likes()
@@ -52,8 +69,21 @@ lor.dar_likes()
 lor.dar_likes()
 lor.dar_likes()
 lor.dar_likes()
+breaking_bad.dar_likes()
+breaking_bad.dar_likes()
+breaking_bad.dar_likes()
+got.dar_likes()
+got.dar_likes()
 
-filmes_e_series = [vingadores, atlanta, lor]
-    
-for programa in filmes_e_series:
+
+
+filmes_e_series = [vingadores, atlanta, lor, got, breaking_bad, harry_potter_1]
+
+playlist_fds = Playlist('fim de semana', filmes_e_series)
+   
+for programa in playlist_fds.listagem:
     print(programa)
+
+print(f'Tamanho da playlist:{playlist_fds.tamanho}')
+
+print(playlist_fds[0])
