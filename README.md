@@ -16,7 +16,7 @@ Python 3: Introdução a Orientação a objetos - Carga horária 12 Hr.[Certific
 
 Python 3: Avançando na orientação a objetos - Carga Horária 10h. [Certificado](https://drive.google.com/file/d/1ZPiPbc4LJfG4sfYiCBz89jQQ8ZbCCnSy/view?usp=sharing) 
 
-Python 3 - Manipulação de String - Carga Horária 7h. [Certificado](https://drive.google.com/file/d/1A_Kw057Eo1HDdgpvSCo1ecMxzXTVWhKy/view?usp=sharing)  
+Python 3: Manipulação de String - Carga Horária 7h. [Certificado](https://drive.google.com/file/d/1A_Kw057Eo1HDdgpvSCo1ecMxzXTVWhKy/view?usp=sharing)  
 
 
 
