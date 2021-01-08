@@ -20,4 +20,6 @@ Python 3: Manipulação de String - Carga Horária 7h. [Certificado](https://dri
 
 Python 3 Collections Parte 1 : Listas e Tuplas - Carga Horária 8h. [Certificado](https://drive.google.com/file/d/1A_Kw057Eo1HDdgpvSCo1ecMxzXTVWhKy/view?usp=sharing) 
 
+Python 3 Collections Parte 2 : Conjuntos e Dicionários - Carga Horária 9h. [Certificado](https://drive.google.com/file/d/1fhdzPrBfgX_VuqzIAfW4d4IUBKwfDqPc/view?usp=sharing) 
+
 Até +
