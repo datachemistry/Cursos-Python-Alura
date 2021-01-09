@@ -2,11 +2,11 @@
 
 Olá, pessoal aqui fica meu repositório para os arquivos gerados ao longo da formação em Python 3 pela Alura.
 
-[Certificado da Formação em Python:](https://drive.google.com/file/d/1RBVzLjwC7O24JVTqtYJi4j5DsU0B7UkB/view?usp=sharing)
-
 Para saber mais acesse:
-
 https://cursos.alura.com.br/formacao-Python-linguagem
+
+Formação em Python 3:
+[Certificado da Formação em Python:](https://drive.google.com/file/d/1wfTkj-nlEACvni4KsYzn4lOtM7tKt2BU/view?usp=sharing)
 
 Certificados Individuiais:
 
