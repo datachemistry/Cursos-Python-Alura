@@ -22,4 +22,6 @@ Python 3 Collections Parte 1 : Listas e Tuplas - Carga Horária 8h. [Certificado
 
 Python 3 Collections Parte 2 : Conjuntos e Dicionários - Carga Horária 9h. [Certificado](https://drive.google.com/file/d/1fhdzPrBfgX_VuqzIAfW4d4IUBKwfDqPc/view?usp=sharing) 
 
+Python 3 Brasil Validação de dados no Padrão Nacional - Carga Horária 7h. [Certificado](https://drive.google.com/file/d/1ZJ0RiPtNCmC0E6oTXbC5xXv61MYwGkbu/view?usp=sharing) 
+
 Até +
